@@ -8,4 +8,4 @@ def bubblesort(array):
                 array[i-1] = z
     return array
 numbers = [3,5,7,3,1,6,8,2]
-print(bubblesort(numbers))
+#print(bubblesort(numbers))

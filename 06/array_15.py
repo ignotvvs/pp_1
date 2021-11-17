@@ -1,6 +1,4 @@
-plik = open("color.txt",'w')
 numbers = ["red","blue","green","black","white"]
-for i in numbers:
-    plik.write(f"{i}\n")
-
-plik.close()
+with open("color.txt",'w') as plik:
+    for i in numbers:
+        print(i,file=plik)
