@@ -1,0 +1,704 @@
+{
+    "students": [
+        {
+            "name": "Lorrin",
+            "surname": "Bleasdille",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Casper",
+            "surname": "Quakley",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Justine",
+            "surname": "Scherer",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Etty",
+            "surname": "MacCarrick",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Karina",
+            "surname": "Corkel",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Kendal",
+            "surname": "Santi",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Eugene",
+            "surname": "Estcot",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Cal",
+            "surname": "Allmann",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Hashim",
+            "surname": "Crotty",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Tawnya",
+            "surname": "Clemenza",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Alexandros",
+            "surname": "Tricker",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Sibel",
+            "surname": "Goodoune",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Beverly",
+            "surname": "Crimp",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Jilleen",
+            "surname": "Larmet",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Dione",
+            "surname": "Grenshiels",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Jaquenetta",
+            "surname": "Lucia",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Valdemar",
+            "surname": "Spleving",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Hersch",
+            "surname": "Whittall",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Odella",
+            "surname": "Wilfing",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Jedd",
+            "surname": "Barrasse",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Richie",
+            "surname": "Ketteringham",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Lebbie",
+            "surname": "Mattaus",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Nancy",
+            "surname": "Doornbos",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Robinett",
+            "surname": "Holby",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Dorry",
+            "surname": "MacNally",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Carleen",
+            "surname": "Von Der Empten",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Nahum",
+            "surname": "Dussy",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Marcos",
+            "surname": "Jarmain",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Ginger",
+            "surname": "Titmus",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Kaja",
+            "surname": "Goodsal",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Nelson",
+            "surname": "Patillo",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Raviv",
+            "surname": "Milley",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Kaja",
+            "surname": "O'Hallihane",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Codee",
+            "surname": "Barkworth",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Marve",
+            "surname": "Lindl",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Alphonse",
+            "surname": "Schriren",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Raffarty",
+            "surname": "Sorrell",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Gabriel",
+            "surname": "Maseres",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Colan",
+            "surname": "MacDonough",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Fremont",
+            "surname": "Martinez",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Betteann",
+            "surname": "Mantrup",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Burt",
+            "surname": "Gensavage",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Isidore",
+            "surname": "Truckett",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Rodger",
+            "surname": "Stopforth",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Tracee",
+            "surname": "McLevie",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Dareen",
+            "surname": "Snowsill",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Robinette",
+            "surname": "Hundal",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Neall",
+            "surname": "Shilvock",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Bellanca",
+            "surname": "Rollo",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Perice",
+            "surname": "Selliman",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Jewelle",
+            "surname": "Ferraraccio",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Glenn",
+            "surname": "Edgehill",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Omar",
+            "surname": "Bielfeldt",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Hinze",
+            "surname": "Batram",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Rube",
+            "surname": "Younghusband",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Willey",
+            "surname": "Realph",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Deidre",
+            "surname": "Pursglove",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Emmeline",
+            "surname": "Schoolfield",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Nickolaus",
+            "surname": "Slogrove",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Devora",
+            "surname": "Swiers",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Sophia",
+            "surname": "Dukesbury",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Wilburt",
+            "surname": "Chinery",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Vincenty",
+            "surname": "Trussler",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Sancho",
+            "surname": "Dillow",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Joice",
+            "surname": "Mifflin",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Barbaraanne",
+            "surname": "Breazeall",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Ede",
+            "surname": "Stanner",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Jamesy",
+            "surname": "Greville",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Pandora",
+            "surname": "Cavilla",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Evita",
+            "surname": "Skatcher",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Lexis",
+            "surname": "Waters",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Madonna",
+            "surname": "Crunkhorn",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Pammi",
+            "surname": "Paddick",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Zachary",
+            "surname": "Dacey",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Madison",
+            "surname": "Tyne",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Crissy",
+            "surname": "Pensom",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Lambert",
+            "surname": "Jenne",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Rasla",
+            "surname": "Regardsoe",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Abby",
+            "surname": "Roland",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Bettine",
+            "surname": "Pencot",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Hannie",
+            "surname": "Johnsey",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Elsinore",
+            "surname": "Noot",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Opalina",
+            "surname": "Grigorey",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Ham",
+            "surname": "Pleasants",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Nolly",
+            "surname": "Bloxham",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Timothy",
+            "surname": "Bridat",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Wendy",
+            "surname": "Cowterd",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Rivkah",
+            "surname": "Stickford",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Eleni",
+            "surname": "Jurczik",
+            "university": {
+                "groupnumber": 1
+            }
+        },
+        {
+            "name": "Doro",
+            "surname": "Crossdale",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Calvin",
+            "surname": "Priddis",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Trude",
+            "surname": "L' Anglois",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Myron",
+            "surname": "Holbury",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Jeniece",
+            "surname": "Pledger",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Amabelle",
+            "surname": "Isbell",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Jacquette",
+            "surname": "Sanson",
+            "university": {
+                "groupnumber": 4
+            }
+        },
+        {
+            "name": "Any",
+            "surname": "Bosence",
+            "university": {
+                "groupnumber": 3
+            }
+        },
+        {
+            "name": "Merline",
+            "surname": "Bourthoumieux",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Sophie",
+            "surname": "Roumier",
+            "university": {
+                "groupnumber": 2
+            }
+        },
+        {
+            "name": "Heidi",
+            "surname": "Glavias",
+            "university": {
+                "groupnumber": 3
+            }
+        }
+    ]
+}
